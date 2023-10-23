@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Khaled</h1>
-<h3 align="center">A passionate frontend developer based in UAE</h3>
+<h3 align="center">A Software Engineer based in UAE</h3>
 <img src='https://th.bing.com/th/id/R.e632bd89ef30dcf257c25aa52845f2c7?rik=Lek8Fq8%2f0YNsUg&pid=ImgRaw&r=0' align='right' alt='kjavedan' style='width: 300px' />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kjavedan&label=Profile%20views&color=0e75b6&style=flat" alt="kjavedan" /> </p>
 
 
-- 🔭 I’m currently working on [Ecommerce website](https://github.com/kjavedan/Ecommerce-website)
+- 🔭 I’m currently working on x55.com official [website. https://x55.com/]
 
 - 🌱 I’m currently learning **redux, react routers and styled components**
 
-- 👨‍💻 All of my projects are available at [https://khaled-javedan-portfolio.netlify.app/index.html](https://khaled-javedan-portfolio.netlify.app/index.html)
+- 👨‍💻 All of my projects are available at [https:/khaledjavedan.vercel.app](https:/khaledjavedan.vercel.app)
 
-- 📫 How to reach me **khaledjavedan76@gmail.com**
+- 📫 How to reach me **javedankhaled@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
