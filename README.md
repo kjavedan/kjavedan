@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on x55.com official website. https://x55.com/
 
-- 👨‍💻 All of my projects are available at [https:/khaledjavedan.vercel.app](https:/khaledjavedan.vercel.app)
+- 👨‍💻 All of my projects are available at https://khaledjavedan.vercel.app/
 
 - 📫 How to reach me **javedankhaled@gmail.com**
 
